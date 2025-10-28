@@ -1,7 +1,7 @@
 ## ایجاد دیتابیس 
 
 ## postman link
-https://.postman.co/workspace/saeed~710fa0b1-7f56-44fc-a650-7e4048396d4d/collection/31396324-b13a1bb1-d85f-491b-a3e3-1b0f4d57e754?action=share&creator=31396324
+[https://.postman.co/workspace/saeed~710fa0b1-7f56-44fc-a650-7e4048396d4d/collection/31396324-b13a1bb1-d85f-491b-a3e3-1b0f4d57e754?action=share&creator=31396324](https://www.postman.com/spaceflight-architect-7014679/workspace/public/collection/31396324-eb7c056f-441b-478a-803d-be9ff8fbb202?action=share&creator=31396324)
 
 ``` bash 
 php artisan migrate
